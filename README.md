@@ -6,13 +6,13 @@ Nodejs API wrapper for [Wallets Africa](https://wallets.africa/)
 
 ### Table of content
 
--   Installation
--   Usage
--   Examples
--   Note
--   Resources
--   Contributing
--   Tests
+-   [Installation](#Installation)
+-   [Usage](#Usage)
+-   [Examples](#Examples)
+-   [Note](#Note)
+-   [Resources](#Resources)
+-   [Contributing](#Contributing)
+-   [Tests](#Tests)
 
 ### Installation
 
